@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[0.00]GN[The 28th WAGC Round6]PW[Victor Guang Chow]PB[Cristian Pop]WR[6d]BR[6d]PC[Tokyo NihonKiin]RE[B+10.50]C[Commentary by Alexander Dinerchtein
+http://breakfast.go4go.net/];B[pd]C[This is the game from the World Amateur Go Championship-2007. Black is Cristian Pop, 6-dan (Romania). White is Victor Guang Chow, 6-dan (South Africa)];W[fd];B[pp]
+;W[eo]C[The opening is weird, but it's typical for Victor Guang Chow. He has an 8-dan account on IGS and beat lot of professionals by playing such openings];B[cd];W[cc];B[dc];W[dd];B[db];W[cb];B[bb];W[bc]
+(;B[ed]C[Nowadays this joseki is popular -];W[de];B[ee]
+(;W[ec]C[White is playing for influence -];B[eb];W[fc];B[bd];W[ef];B[ca]
+;W[fe]C[The result is equal. White's shape is extra-thick, but it's not easy to use it for making territory, because of open skirts from the both sides]
+(;B[jp]C[The best place -];W[fq]
+;B[pn]LB[mp:A][nq:B]C[Black may also defend at A or B]
+(;W[lq]C[The invasion looks natural -];B[ko]C[The right answer];W[nq]LB[pq:A]C[It looks heavy. It's better to think about an attachment at A];B[mp]C[The vital point];W[pq];B[qq]
+;W[qr]C[It's not easy for White to create a good shape here]
+(;B[pr]C[A sharp plan -];W[oq];B[rr];W[qp];B[qs];W[rq];B[qr]
+;W[no]LB[po:A]C[It's probably better to start from the atari at A, getting more sente moves];B[qo]
+;W[lp]LB[nm:A]C[Is it better to jump at A?];B[km]
+;W[nm]C[White is one step slow];B[mn];W[nn];B[mo];W[mq]
+;B[jq]C[A sharp move];W[nk]C[White's group is weak, so he cannot play actively];B[ml];W[nl]
+;B[lj]TR[ec][dd][fd][de][fe][ef]C[Black's group is getting stronger, so the marked wall is getting less and less attractive];W[ql]LB[ni:A]C[It's probably better to jump at A];B[co];W[cq]
+;B[dm]LB[cl:A]C[The low extension at A is normal here];W[ck]LB[qf:A][em:B]C[A good move, but it's better to start from the kakari at A. Later White can attach at B, separating Black's groups];B[fn];W[qf]
+;B[ni]C[A very thick move];W[pi]C[White has no choice. He has to defend];B[nc]
+;W[rd]C[Too passive];B[qc]LB[kc:A]C[Black may think about extending at A];W[do];B[cp];W[dq];B[bq];W[br];B[dk];W[dj];B[ek]
+(;W[cm]TR[co][cp][bq]C[I would prefer to cut off the marked stones -];B[cn];W[cl]
+;B[dn]C[Now Black's shape is just ideal];W[go]C[It's already slow];B[cf]C[A huge move];W[ej]C[White is making his opponent stronger by pushing like this];B[fj];W[fi];B[gj];W[gi];B[hi];W[hh]
+;B[hj]TR[ec][fc][dd][fd][de][fe][ef]C[Black is happy to connect his groups. 
+
+We may see that the marked wall is exactly useless];W[ih];B[ch]
+;W[ci]LB[ei:A]C[There is a big weakness at A, so White has to defend it];B[dh];W[ei]
+;B[kc]C[Black ends in sente. Now he has a clear lead on territory];W[rc];B[ph];W[qh]
+;B[qi]C[An aggressive idea. Actually it was not necessary to fight like this]
+(;W[oh]C[It's not easy for White to find the answer -];B[pg];W[qg];B[pj];W[oi]
+;B[pl]C[A good move];W[pk];B[qk];W[pm];B[oj];W[nj]
+;B[rl]LB[nh:A]C[Black may start from the atari at A];W[ol];B[rm]
+;W[mi]C[The result is successful for Black. He destroyed lot of points in sente];B[gn]LB[nh:A]C[Black can run at A, but it's not necessary for him];W[io];B[gp];W[fo]
+;B[ho]C[A nice tesuji];W[hp];B[hn];W[ip];B[hq];W[iq];B[ir];W[hr];B[in];W[gq]
+;B[jo]C[Black's shape becomes very thick];W[fp]
+;B[ji]LB[nh:A]C[Black can still run at A, but he is trying to keep the game simple];W[ri];B[qj];W[nh]
+;B[hc]TR[ec][fc][dd][fd][de][fe][ef]C[Black got the last important place. Now he has a clear 15 points lead on the board.
+
+
+
+We can say, that White lost this game, because he did not use the marked thickness at all.];W[rj];B[rk];W[rb];B[he];W[hf];B[if];W[ge];B[hd];W[oe];B[pe]
+;W[pf];B[ne];W[nf];B[od];W[me];B[of];W[ng];B[md];W[gb];B[hb]
+;W[ha];B[ia];W[ga];B[jb];W[jr];B[hg];W[gf];B[ig];W[jh];B[gg]
+;W[fg];B[ki];W[le];B[kf];W[kg];B[ke];W[ld];B[lc];W[pb];B[lg]
+;W[lf];B[kd];W[mf];B[lh];W[gh];B[eh];W[fh];B[bi];W[bj];B[di]
+;W[cj];B[qb];W[qa];B[ob];W[pc];B[qd];W[mm];B[lm];W[lo];B[ln]
+;W[bp];B[bo];W[aq];B[oc];W[pa];B[oa];W[ra];B[mk];W[kq];B[bh]
+;W[bm];B[or];W[nr];B[qm];W[ii];B[ij];W[jf];B[ie];W[li];B[kh]
+;W[jg];B[ce];W[mj];B[kk];W[dg];B[ai];W[cg];B[bg];W[oo];B[po]
+;W[aj];B[pl];W[dl];B[el];W[ql];B[fb];W[gc];B[fa];W[je];B[jd]
+;W[os];B[pl];W[en];B[em];W[ql];B[oe];W[og];B[pl];W[rp];B[ro]
+;W[ql];B[rh];W[rg];B[pl];W[sr];B[sp];W[ql];B[sj];W[sh];B[pl]
+;W[ac];B[ad];W[ql];B[qe];W[re];B[pl];W[bf];B[af];W[ql];B[ao]
+;W[pl];B[ap];W[bq];B[dp];W[ep];B[am];W[al];B[an];W[on];B[sk]
+;W[si];B[sq];W[mh];B[ps];W[ns];B[jl])
+(;W[pj];B[qe];W[rf];B[qg];W[rh];B[pf]
+;W[rg]C[This is probably the best way for White]))
+(;W[cn];B[cm];W[bn];B[cj]
+;W[lc]C[White can take some territory and keep sente]))
+(;B[oq];W[pr];B[np];W[or];B[op];W[qi];B[mq];W[rq];B[qg];W[ql]
+;B[co];W[cq]
+;B[cl]C[This is the most simple strategy]))
+(;W[qi];B[qk];W[qf];B[qe];W[pf];B[nc];W[oi];B[co];W[cq]
+;B[cl]C[It would be hard for White to use the thickness by playing classic moves]))
+(;B[mc];W[mp];B[pn]
+;W[mm]C[This is the wrong direction. White's moyo would be really deep]))
+(;W[ce];B[fc];W[ef];B[fe]
+;W[dg]C[It's a joseki too]))
+(;B[bd];W[ab];B[ba];W[ca];B[fb];W[de];B[ad];W[ce];B[ac];W[aa]
+;B[bb]C[It's an old fashion. The result considered to be slightly favorable for White]))

@@ -1,0 +1,43 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[0.00]GN[The 28th WAGC Round7]PW[Shan Ziteng]PB[Merlijn Kuin]WR[8d]BR[5d]PC[Tokyo NihonKiin]RE[W+Resign]C[Commentary by Alexander Dinerchtein
+http://breakfast.go4go.net/];B[pc]C[This is the game from the World Amateur Go Championship-2007. Black is Merlijn Kuin, 5-dan (Holland). White is Shan Ziteng, 8-dan (China)];W[dd];B[pq];W[dp]
+;B[ck]C[A strange move];W[qe];B[cf]
+;W[fc]C[We may often see this shape in handicap games]
+(;B[pi]C[There is a big weakness on the left, so it's probably better to defend it directly -]
+(;W[qn]LB[od:A][qg:B]C[Normally White plays at A or B -];B[ql]C[The pincer is natural];W[qq];B[qp];W[pp];B[rq];W[qr];B[po];W[op];B[qo];W[rr]
+(;B[qd]C[A good choice -];W[pe]
+;B[nd]LB[od:A]C[This shape has a bad adji. Kosumi at A is more solid];W[qg]
+;B[qh]LB[ri:A]C[The right answer. For sure, Black has to avoid the keima jump at A];W[oh];B[oi];W[nh];B[rg];W[ld]
+;B[nc]LB[oc:A]C[A solid move, which defends against the attachment at A];W[ph];B[ri]
+(;W[ci]C[White is trying to develop quickly -];B[cn];W[ce]
+(;B[df]C[White has more stones here, so the fight is favorable for him -];W[ei];B[gf]
+;W[ek]C[Suddenly Black's position becomes thin];B[en];W[co]
+(;B[fp]LB[bn:A]C[A mistake. For sure Black has to extend at A -];W[bn];B[cm]
+;W[hi]TR[cf][df][gf]C[Now the marked group is very weak, so Black cannot play actively];B[dj]C[A bad exchange];W[di]
+;B[gd]LB[cc:C][ec:B][ed:A]C[It is still possible to think about A-B-C combination];W[fd];B[fe];W[he];B[ge]
+;W[hb]C[White's corner becomes solid territory];B[hf]LB[jf:B][ig:A]C[A slow move. It's better to jump at A or B];W[ji]C[Black's group is still heavy];B[li]C[First of all Black has to defend his own group];W[jf]C[The vital point];B[gi];W[gj]
+;B[gh]C[Black makes his opponent stronger without any reason];W[fj]C[White is happy to defend];B[hj]C[A new overplay];W[hk];B[ij];W[ii];B[jj];W[kj];B[il];W[ki];B[hl];W[gl];B[gn]
+;W[fg]C[The race looks favorable for White];B[gg];W[bf];B[bg]
+;W[ef]C[A nice tesuji];B[ee];W[de]
+(;B[dg]LB[eg:A]C[Black cannot connect at A -];W[eg];B[be];W[cc];B[af];W[dh];B[bi];W[cj];B[dk];W[bj];B[ch]
+;W[ai];B[bh]
+;W[em]LB[ie:A]C[White can win the race by extending at A, but he has a better plan];B[dm]
+;W[fn]C[A brilliant tesuji];B[fm];W[gm];B[hn];W[fl];B[eo]
+;W[jl]LB[ie:A]C[It is still possible to win the race at A];B[kk];W[hm];B[im];W[in]
+(;B[jk]C[It's hard for Black to find the answer -];W[jm];B[ik];W[jn]
+;B[ko]C[It looks like a tesuji, which destroys both ladders, but actually it's not working];W[lk];B[kl]
+;W[lm]C[Black missed this simple net. Merlijn Kuin, 5-dan resigned here.])
+(;B[jm]
+;W[jn]LB[km:B][go:A]C[A and B would be the miai points]))
+(;B[eg];W[dg];B[ff];W[cg];B[ef]
+;W[bh]C[The result would be terrible for him]))
+(;B[bn];W[fp];B[ed];W[ec];B[cc];W[dc];B[be];W[cd]
+;B[hj]C[He can start the attack first]))
+(;B[fq]TR[cf]C[I would prefer to sacrifice the marked stone]))
+(;W[lh]
+;B[di]C[It would be slow to defend here]))
+(;B[no];W[oo];B[on];W[oq];B[pn];W[rc];B[mc]
+;W[qg]C[It would be slow for Black to finish the joseki]))
+(;W[qg];B[nd];W[rc];B[jc]
+;W[bd]C[This is the most simple development]))
+(;B[bd];W[cc];B[dh]
+;W[nc]C[Black may think about this opening]))

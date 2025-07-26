@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[6.5]PW[Steve Stringfellow]PB[Sorin Gherman]WR[6d]BR[8d]DT[4-21-2007]EV[Cherry Blossom Festival]PC[Seattle Center]RE[B+5.50]C[Commentary by Cho Seokbin, 7d (used to be insei in Korea; currently living in Germany, and winning a lot of European tournaments).];B[qd];W[dp];B[cd];W[od];B[oc];W[nc];B[pc]
+;W[ec]LB[ic:B][ed:A]C[It s normal to play the high approach with A instead, to avoid the hasami at B (which works well for Black in this case).];B[ic]
+(;W[nf]LB[kc:C][nd:A][qf:B]C[Too loose - not severe enough against Black on the upper side.
+There is nothting wrong with playing the normal sequence: White A, Black B, White C - after reinforcing first in the upper left. See the variation.]
+(;B[oq]LB[dc:A]C[It is more severe to start some action with A - see the variation.];W[qo];B[qq];W[ql]
+;B[qg]LB[dc:A]C[Big move, but again Black A is more severe.];W[cj]
+;B[cg]C[I thought this move of mine was kind of slow, but Cho said it is OK.];W[cc];B[bc];W[dd]
+(;B[ce]LB[cb:A]C[Now this was slow - at A is more severe. See the variation.];W[cb]
+;B[bb]LB[gc:B][ef:A]C[Small: if White replies at B, it's not clear that it is a good exchange for Black, because he is hurting his stone on the upper side.
+
+I was worried that White might play here and leave the upper left group of Black's without eyes, but Black can jump out around A, and that would not be a good exchange for White, either - because Black A would help with reducing White's moyo in the lower left.];W[ie]LB[gc:A]C[Overplay: should be at A.];B[lc]LB[fd:C][gd:A][ge:B]C[Much more severe at A; if White B, Black C.];W[nb];B[le];W[qe];B[re];W[pe]
+;B[rc]LB[qc:B][pd:C][qf:A]C[better at A; if White B, Black C and there is nothing to worry about.]
+(;W[qh]LB[jd:A]C[This move surprised Cho, and he pointed out that A is the "normal" way to play for White - see the variation.]
+(;B[qf]LB[pg:A]C[A is more severe - see the variation.]
+(;W[lg];B[ne];W[kd];B[ld];W[nd];B[mf];W[of];B[mg];W[oh]
+;B[lh]LB[ke:A]C[Safer at A, to stay connected on the upper side.];W[kc];B[ke];W[jd];B[fd];W[gb];B[gc];W[hb];B[ib];W[hc];B[id]
+;W[hd]
+(;B[kb]LB[je:A]C[Should cut at A - see the variation.];W[je];B[jb];W[ff];B[qj];W[qi];B[pj];W[oi];B[oj];W[mi];B[ol]
+(;W[mh]LB[kg:B][nj:A]C[Bad exchange for White - should be A, threatening B later (see variation)];B[kh];W[oo]
+(;B[mk]LB[lj:A]C[Very bad direction of play - should attack from A (eventually preparing it with kikashi moves against the white group in the lower left).];W[lj];B[jj];W[kk];B[pm];W[qn]
+(;B[mo]LB[lm:A]C[Very bad - Black hurts himself by starting this meaningless attack.
+Should be at A, defending first.];W[np];B[mr];W[mp];B[lo]
+(;W[lp]LB[lr:A]C[Instead of just pushing from behind, White should play the tesuji at A - see the variation.];B[ko];W[kp];B[jk]
+;W[jh]LB[kg:A]C[This is destroying aji - for instance White loses the opportunity to play A.];B[kg];W[kl];B[jo];W[jl];B[jp];W[lr];B[mq];W[jq];B[iq];W[jr]
+(;B[il]LB[ir:A]C[Black got a lost game once white captured 2 stones in the center in the next few moves - Black needs to be patient here, for instance to play at A - see the variation.];W[im]
+;B[hm]C[Very bad - see the comment for Black 95.];W[ji]
+(;B[jg];W[ik];B[hl]
+;W[ij]C[game over for black];B[he];W[hf];B[ge];W[jf];B[gf];W[hg];B[gg];W[hh];B[kf];W[mb]
+;B[lb];W[fc]
+;B[ia]C[Subsequent moves not recorded - Black managed somehow to win this game (by 5.5 points).])
+(;B[ki]C[Doesn't work.];W[kj];B[ik];W[jg];B[jf];W[if];B[kf];W[mb];B[lb]
+;W[la]C[black is dead]))
+(;B[ir];W[rq];B[rr]
+;W[rp]LB[fq:A][sr:B]C[Next Black A - or even B, if the corner is a problem - should be OK, and result in a normal game.
+]))
+(;W[lr]C[Tesuji to gain speed.];B[lq]
+;W[lp]LB[ko:A][mq:B]C[White cuts in sente - A and B are miai.]))
+(;B[lm]C[This is what Black should do - make shape, move out, and aim at the 2 white groups later.
+First defend, then attack.]))
+(;B[pm];W[qm];B[pn];W[po];B[qn];W[rn];B[ro];W[rp]
+;B[lj]C[Very severe.]))
+(;W[nj];B[oo];W[nk];B[pl];W[kg];B[mh]
+;W[ji]C[Something like this - white can attack very severely]))
+(;B[je];W[kb];B[he];W[if];B[hf];W[ig];B[fb];W[fc];B[gd];W[eb]
+;B[lb];W[ja]
+;B[ia]C[Black wins the semeai now.]))
+(;W[jd];B[jc];W[kd];B[ld];W[kc];B[kb];W[lb];B[mb];W[jb];B[la]
+;W[ib]))
+(;B[pg]C[more severe];W[rf];B[rg];W[se];B[rd];W[qf]
+;B[qj]LB[sd:A]C[Black lives in the corner (since A is sente), so he can attack on the outside.
+This is very interesting - it was totally counter-intuitive for me to let White cut my stones, so I didn't even consider this possibility.
+]))
+(;W[jd];B[jc];W[kd];B[ld];W[kc];B[kb];W[lb];B[mb];W[jb];B[la]
+;W[ib]TR[nb][nc]C[It's OK now to lose the 2 triangle marked stones for White - since they are small after Black capturing one stone on the upper side.]))
+(;B[cb];W[ce];B[dc];W[bd];B[ed];W[cc];B[db];W[df];B[fd];W[dg]
+;B[fq]))
+(;B[dc]C[most severe];W[ed];B[df]
+;W[ie]C[I was worried about White playing a capping move like this and taking the initiative, but apparently Black should be happy in this case....];B[gc]LB[lc:B][fe:A]C[Just playing here makes miai A (or so) and B.];W[ge]
+;B[lc]C[Black gets territory in 3 places on the upper side, white gets nothing.]))
+(;W[dd];B[ce];W[cc];B[bc];W[cb];B[ch];W[nd];B[qf]
+;W[kc]C[This is better for White compared to the game.]))

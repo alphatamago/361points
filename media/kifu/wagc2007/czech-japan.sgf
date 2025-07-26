@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[0.00]GN[The 28th WAGC Round4]PW[Mori Hironobu]PB[Ondrej Silt]WR[7d]BR[6d]PC[Tokyo NihonKiin]RE[W+7.50]C[Commentary by Alexander Dinerchtein
+http://breakfast.go4go.net/];B[pd]C[This is the game from the World Amateur Go Championship-2007. Black is Ondrej Silt, 6-dan (Czechia). White is Mori Hironobu, 7-dan (Japan)];W[dp];B[pq];W[dd];B[fq];W[cn];B[ip]
+;W[qf]LB[pn:A][qn:B]C[Usually White plays the kakari at A or B];B[ph]C[The pincer is natural];W[of];B[nd];W[rd];B[qc];W[rh]
+;B[og]C[The standard probe];W[nf];B[kc]
+;W[kq]LB[pe:A]C[White is trying to develop quickly. It's also possible to defend solidly at A];B[jq];W[kp]
+;B[mq]C[The best way to attack];W[jn]
+;B[in]LB[hn:A][io:B]C[It's usually bad to attach weak stones. It's better to play at A or B, without making White's group stronger];W[im];B[hn]
+;W[jm]C[White is happy to defend. Now his group is extra strong];B[qg]C[Right now Black has no ko threats for winning the ko. The timing looks dubious];W[rg];B[pf];W[pe];B[qe];W[pg]
+;B[do]C[It's hard to find anything bigger]
+(;W[qd]LB[qh:A]C[Normally White plays at A -];B[pf];W[re];B[oe];W[pg];B[co]
+;W[qh]C[White spends one more stone here and his position becomes extremely thick];B[dn]LB[bn:A][bo:B]C[This shape has a bad adji. It's better to defend solidly at A or B];W[qo]
+;B[mo]C[A good answer];W[pc];B[oc];W[pb]
+(;B[hc]C[The only move -];W[cf];B[gl];W[cp]
+(;B[dr]LB[bo:A]C[Can Black keep the corner by blocking at A? -];W[bo];B[bn];W[bq]
+;B[cm]LB[ao:A]C[Black may start from the atari at A];W[cr];B[dq];W[ar]
+;B[bs]C[Black has no ko threats for killing this group, so it's better to play tennuki];W[cs];B[ao];W[ap];B[bp];W[jd]
+;B[jc]C[Black has no choice];W[bo]
+;B[cc]C[The threat is not big enough];W[an]C[The right decision];B[cd];W[ce];B[eb]
+;W[ci]C[The result is clearly favorable for White. Now he has a clear lead];B[ep]C[Too passive! It's hard for Black to win the game, by making such a slow moves];W[rq]
+(;B[mm]C[It's also soft -];W[oo]
+;B[kr]C[A strange move];W[lr];B[jr];W[np];B[mp]
+;W[jj]C[Black can cut off one stone, but it's very small.
+
+I cannot find any hope for him in this game ...
+
+
+
+This is the last note.];B[om];W[qm];B[lj];W[hj];B[di];W[dh];B[eh];W[kh];B[ch];W[dg]
+;B[cj];W[bi];B[dj];W[bj];B[bk];W[bl];B[ck];W[bh];B[pn];W[po]
+;B[pl];W[ql];B[ji];W[ii];B[jk];W[ik];B[kj];W[ij];B[jh];W[hg]
+;B[ig];W[ih];B[jg];W[hf];B[nq];W[hd];B[id];W[ie];B[ic];W[ec]
+;B[fb];W[ln];B[pj];W[mc];B[md];W[ob];B[je];W[jf];B[ke];W[lq]
+;B[rr];W[qq];B[qr];W[qk];B[nc];W[nb];B[mb];W[kf];B[if];W[he]
+;B[kg];W[lf];B[lg];W[le];B[kd];W[mg];B[mh];W[nh];B[mi];W[ni]
+;B[nj];W[mn];B[nn];W[oq];B[or];W[pp];B[op];W[bd];B[bc];W[oq]
+;B[pr];W[no];B[lm];W[jp];B[io];W[km];B[sr];W[ns];B[os];W[ds]
+;B[er];W[lc];B[ld];W[lb];B[kb];W[ma];B[gh];W[hh];B[fj];W[kl]
+;B[hl];W[kk];B[lk];W[on];B[nm];W[gc];B[gb];W[be];B[il];W[jl]
+;B[fc];W[fd];B[dc];W[ed];B[oi];W[ks];B[ff];W[ef];B[fg];W[fe]
+;B[iq];W[pk];B[pm];W[ok];B[oh];W[nk];B[ng];W[ll];B[mk];W[ml]
+;B[mf];W[ac];B[ab];W[ad];B[ro];W[qn];B[sp];W[bb];B[cb];W[aa]
+;B[sm];W[ca];B[db];W[bm];B[al];W[cn];B[cl];W[ne];B[od];W[bn]
+;B[lo];W[kn];B[sk];W[es];B[fs];W[cq];B[sq];W[qp];B[me];W[pf]
+;B[gd];W[gi];B[fi];W[gj];B[rj];W[gk];B[fk];W[hm];B[gm];W[ka]
+;B[ja];W[la];B[aj];W[ai];B[ak];W[gg];B[fh];W[js];B[is];W[ls]
+;B[nr];W[ms];B[qj];W[rn];B[si];W[sh];B[ge];W[gf];B[gc];W[eg]
+;B[ri];W[sn];B[rk];W[qi];B[da];W[ab];B[op];W[ba];B[oq])
+(;B[pn];W[qn]
+;B[pm]C[This plan looks more active]))
+(;B[bo];W[eq];B[fr];W[bp];B[dr];W[er];B[es]
+;W[cr]C[The adji is very bad, so the task of killing this group is hard]))
+(;B[qb];W[ob];B[nb];W[ne];B[od];W[md];B[nc];W[mb];B[pa];W[mc]
+;B[oa]
+;W[gc]C[This result would be terrible for Black]))
+(;W[qh];B[co];W[cp];B[bp];W[eo];B[dn];W[bq];B[bo]
+;W[eq]C[He can easily save the corner]))

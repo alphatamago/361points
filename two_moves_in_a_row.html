@@ -1,0 +1,45 @@
+
+<!-- saved from url=(0087)http://www.361points.com/media/gopatterns//leela_zero_patterns//two_moves_in_a_row.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="stylesheet" href="./two_moves_in_a_row_files/style_v2.css" type="text/css" media="screen">
+</head>
+<body>
+<h1>How Does LeelaZero Use Two Stones</h1>
+<p>(This is a follow up from the <a href="http://www.361points.com/media/gopatterns//leela_zero_patterns//leela_zero_patterns.html">overview of LeelaZero's training patterns</a> page).  
+</p><p>This article is about the corner patterns that occur in LeelaZero's training games, if we focus only on the ones that contain exactly two stones of the same color. In other words, when LeelaZero can play two moves in a row in a board quadrant, where does it like to play?
+
+</p><h2>Top 1: Ikken Shimari</h2>
+<p>The top pattern in this category is "ikken shimari". We can see that it had a sudden surge in popularity in the second half of the training, but it fades out in most recent versions.
+</p><p><img src="./two_moves_in_a_row_files/ikken_shimari.PNG">
+
+</p><h2>Top 2: Keima Shimari From Hoshi</h2>
+<p>The 2nd most popular pattern in this category is also a very familiar one, keima shimari from a 4x4 stone. The popularity graph seems to suggest that this pattern reached a peak and it is fading away - but that may be caused by the fact that black is not allowed by white to play the O3 move that often, since white will play an early 3x3 invasion. This is just my theory, more detailed data-analysis would be needed to be sure.
+</p><p><img src="./two_moves_in_a_row_files/keima_shimari_hoshi.PNG">
+
+</p><h2>Top 3: Nikken Shimari</h2>
+<p>As noted in the overview article as well, my theory for why ikken-shimari above became less popular in recent versions is because nikken-shimari is eating its lunch! We can see how it's getting very popular recently, and we see this pattern a lot in AlphaGo games too.
+</p><p><img src="./two_moves_in_a_row_files/nikken_shimari.PNG">
+
+</p><h2>Top 4: Ikken Shimari From Hoshi</h2>
+<p>This is similar to the keima-shimari from hoshi, both as a pattern as when comparing the general shape of the popularity graph. Some detailed differences though: this became popular earlier compared to keima-shimari, and it became less popular earlier too.
+</p><p><img src="./two_moves_in_a_row_files/ikken_shimari_hoshi.PNG">
+
+</p><h2>Top 11: Ogeima Shimari</h2>
+<p>Fast forward to position 11 in this category (skipping over some patterns that had an early peak and faded out): ogeima-shimari ("ogeima" means "large keima" by the way) is popular with AlphaGo too. We can see LeelaZero started to love this pattern recently more and more (after an early temporary crush somewhere around the middle of the training history). In absolute numbers, this is almost 10 times less popular compared to nikken-shimari (in position 3 above) - to notice that, one has to pay close attention at the top of the y-axis, which is different in each diagram.
+</p><p><img src="./two_moves_in_a_row_files/ogeima_shimari.PNG">
+
+</p><h2>Top 16: Keima Shimari</h2>
+<p>Jumping to top 16 for the most popular human shimari, the keima. LeelaZero is not impressed with this at all, other than some one-time spike in the middle, around the same time ogeima-shimari had a similar spike.
+</p><p><img src="./two_moves_in_a_row_files/keima_shimari.PNG">
+
+</p><h2>Top 35: Ogeima Shimari From San-San</h2>
+<p>Jumping a lot of places to reach another shimari that is commonly seen in human games: ogeima-shimari from a 3x3 stone. This is pretty much history, very few occurrences in recent versions.
+</p><p><img src="./two_moves_in_a_row_files/ogeima_shimari_from_3x3.PNG">
+
+</p><h2>Top 42: Chinese Opening Like Extension</h2>
+<p>A few more places down we can find an extension that is similar to the lower half of the Chinese opening. The history of this one seems pretty constant in LeelaZero's training, being discovered early, and having some relatively flat popularity all the way to most recent versions (with one large spike in the middle).
+</p><p><img src="./two_moves_in_a_row_files/chinese_extension.PNG">
+
+
+
+</p></body></html>

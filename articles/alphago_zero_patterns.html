@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0056)http://www.361points.com/articles/alphago_zero_patterns/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="verify-v1" content="c81PZpJNPd9k1n5DCWhzILhphaDIn51dhCxvvAIk0I8=">
+<meta name="description" content="This website is about the board game of Go / Baduk / Weiqi. How to study Go / Baduk, where to play Go online, play Baduk online, what Go books and equipment to purchase.">
+<meta name="keywords" content="Go, Igo, Weiqi, Baduk, insei, game, board game, online game">
+<meta name="author" content="Sorin Gherman">
+<title>The Game of Go / Baduk / Weiqi</title>
+<link rel="stylesheet" href="./alphago_zero_patterns_files/style.css" type="text/css" media="screen">
+
+
+<script type="text/javascript" src="./alphago_zero_patterns_files/all.compressed.js.download"></script><link rel="stylesheet" type="text/css" href="./alphago_zero_patterns_files/player.css">
+
+
+</head>
+
+<body>
+
+<div id="header">
+
+
+ 
+
+<span class="left_header_ads"><a href="http://www.361points.com/"><img class="logo" src="./alphago_zero_patterns_files/361points.com.logo.280x57.80p.jpg" width="280" height="60"></a></span>
+
+<span id="sitetitle">Game of Go / Baduk / Weiqi </span>
+
+
+
+
+</div> <!-- end header -->
+
+<div id="leftside">
+
+
+<div id="navmenu">
+
+<h3>Main</h3>
+
+<a href="http://www.361points.com/whatisgo/">What is Go?</a>
+<a href="http://www.361points.com/firststeps/">First steps</a>
+<!-- <a href="/nihonkiinsummercamp2017/"><strong>Nihon Ki-in Summer Go Camp 2017</strong></a> -->
+<a href="http://www.361points.com/study/">How to improve</a>
+<a href="http://www.361points.com/lessons/">Lessons</a>
+<a href="http://www.361points.com/kifu_sorin/">Commented games</a>
+<a href="http://www.361points.com/whatispro/">About professionals</a>
+<a href="http://www.361points.com/whatisinsei/">About insei</a>
+<a href="http://www.361points.com/essays/">Articles</a>
+<a href="http://www.361points.com/books/">Books</a>
+<a href="http://www.361points.com/software/">Software and playing online</a>
+<a href="http://www.361points.com/articles/thoughtsonalphago/">AlphaGo</a>
+<a href="http://www.361points.com/articles/alphago_zero_patterns/">AlphaGo Zero Patterns</a>
+<a href="http://www.361points.com/media/gopatterns//leela_zero_patterns//lz_before_and_after_elf.html"><strong>LeelaZero Patterns</strong></a>
+
+<h3>Links</h3>
+<a href="https://gotoeveryone.k2ss.info/news/" target="_blank">News</a>
+<a href="https://www.reddit.com/r/baduk/" target="_blank">Reddit/Baduk</a>
+<a href="http://lifein19x19.com/" target="_blank">Life in 19x19 forum</a>
+<a href="http://www.weiqiok.com/asp/English.asp" target="_blank">weiqiok.com</a>
+</div> <!-- end navmenu -->
+
+
+
+
+
+
+</div> <!-- end leftside -->
+
+<div id="maincenter">
+
+<div id="fb_likes_wrapper">
+<div class="fb-like" data-send="true" data-width="450" data-show-faces="true"></div> 
+</div>
+
+
+
+<h1>AlphaGo Zero Patterns</h1>
+
+<p>Deepmind published yet another article about AlphaGo in the Nature journal, in October 2017. The main difference between AlphaGo Zero and previous versions is that the Zero version learns Go... "from zero", starting from just the rules of the game, playing millions of games against itself and learning from its own mistakes, little by little. By contrast, the version of AlphaGo that defeated Lee Sedol last year had gone first through a "supervised learning" stage where it trained first on many game records from online Go servers, before improving by self-play.
+
+</p><p>This article is about some patterns I identified when reviewing the AlphaGo Zero games.
+
+</p><h2>Pattern 1</h2>
+<p>AlphaGo Zero has the black stones in this diagram, playing against AlphaGo Lee. This pattern occurs in many of their published games (5 or so out of 20). Black ignores white's approach at R12, so white has the chance to invade at 3x3. How will black respond?
+</p><p>
+<img border="0" src="./alphago_zero_patterns_files/ag0_pattern1_q.jpg">
+
+</p><p>In all the games I saw with this pattern, AlphaGo Zero dodges AlphaGo Lee's invasion the same way: plays a forcing "hane" in the following diagram, a stone which is immediately sacrificed in order to capture the invasion stone. Black has solid eyes (and territory) as a result, white white has thickness on the outside.
+</p><p> 
+<img border="0" src="./alphago_zero_patterns_files/ag0_pattern1.jpg">
+
+</p><h2>Pattern 2</h2>
+<p>This is similar with pattern 1, except that in this case AlphaGo Lee plays a large slide ("ogeima") instead of the 3x3 invasion. How should black respond in this case?
+</p><p>
+<img border="0" src="./alphago_zero_patterns_files/ag0_pattern11_q.jpg">
+
+</p><p>AlphaGo Zero's response is to calmly make eyes (and some territory) by playing 3x3 itself. White exchanged 3-4 later, but I am showing it in sequence for convenience.
+</p><p>
+<img border="0" src="./alphago_zero_patterns_files/ag0_pattern11.jpg">
+
+</p><h2>Pattern 3</h2>
+<p>This pattern occurs after AlphaGo Zero ignores an approach against its 4x4 ("hoshi"), and the opponent has the chance to play a double approach. By the way, it seems to me that AlphaGo Zero likes a lot to ignore an approach, more so compared to AlphaGo Master. 
+</p><p>What will black play next: A, B or C?
+</p><p>
+<img border="0" src="./alphago_zero_patterns_files/ag0_pattern2_q.jpg">
+
+</p><p>Let me show first the traditional, human way to play: in the past black used to wedge in with 1, which results in the shape below. It is very puzzling that AlphaGo doesn't seem to like this at all for black, or at least it never played it in any of the published games! It should be very interesting to see if AlphaGo discovered this shape early during its self-training, and then discarded it for some reason; or maybe never even considered it (not very likely)? 
+</p><p>We can think of this shape as somewhat inefficient for black, with the O15 so close to the other black stones. I guess the main reason why AlphaGo may dislike this is because black is completely lacking eye-shape - however this didn't stop humans to play it a lot: the oldest game record I have with this pattern is from 1881, and it continuously span the Go history, including pro games during the past 2 years in all of China, Korea and Japan.
+</p><p>If AlphaGo indeed thinks this is bad for black (as opposed to just avoiding it because it is slightly inferior), I would consider this as the second-biggest blind spot for human Go - with the humans' missing the 3x3 invasion against the "naked hoshi" firmly in number-one spot!
+</p><p>
+<img border="0" src="./alphago_zero_patterns_files/ag0_pattern2_old.jpg">
+
+</p><p>For those who studied AlphaGo Master's games, you would guess that black will connect solidly at R16 - this is what Master does most of the time.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern21.jpg">
+
+</p><p>AlphaGo Zero disagrees with Master though: it prefers this attachment instead! Compared to Master's firm connection, here black is stronger on the outside, but the corner is weaker. Also, black here seems to want to invite (or lure?) white to respond to this attachment.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern22.jpg">
+
+</p><p>I show next a few follow-ups from this pattern, from AlphaGo Zero's games.
+</p><p>In this one, white is also AlphaGo Zero, and it takes advantage of the weaker corner by playing a few forcing moves, and also develops on the right side. The R14 stone in this diagram (one of the initial double-approach moves) is being treated lightly, ready to be sacrificed.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern221.jpg">
+
+</p><p>The next diagram is from another Zero-vs-Zero game; unlike the previous diagram, white is taking a definite grip on the corner, while black is firmly capturing stone 4 and developing on the right side.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern222.jpg">
+
+</p><p>Here is yet another variation, this time white is ignoring black's attachment - white 1 and 3 are played elsewhere, so black gets two free moves locally, capturing one of the approach stones, then taking the corner, before white feels like having to defend on the upper side.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern223.jpg">
+
+</p><p>I found that Master also played the Q14 attachment once (instead of its favorite, R16 connection), against a human player. In the next diagram, white is Jiang Weijie 9p, and it looks like he took on Master's invitation and replied the attachment with hane at Q13.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern224.jpg">
+
+</p><h2>Pattern 4</h2>
+
+
+<p>The next pattern is the lower half of the small Chinese opening. This is a very common pattern from human games too. White to play next - where?
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern61_q.jpg">
+
+</p><p>The most common way is for white to play at 1 in the next diagram - "keima".
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern61_human.jpg">
+
+</p><p>AlphaGo Zero has no patience for such slow moves though - it plays this contact move instead, aiming to make a larger living space for itself.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern61_ag.jpg">
+
+</p><p>Here is the continuation I found in two games AlphaGo Zero played as white in this diagram against AlphaGo Lee. As a result white made a 100% living shape, at the expense of making black stronger toward the center and upper side - on the other hand black is left with cutting points to worry about.
+</p><p><img border="0" src="./alphago_zero_patterns_files/ag0_pattern61.jpg">
+
+</p><p>As a reminder: AlphaGo doesn't know or care about local joseki, it always chooses moves according to the situation on the board as a whole. We should try to do the same, however it is also interesting and useful to analyze local positions and compare AlphaGo' choices between its different versions, or compare them with the traditional human choices.
+
+</p><h3>Resources</h3>
+<p>Deepmind <a href="https://deepmind.com/blog/alphago-zero-learning-scratch/">The AlphaGo Zero announcement.</a>.
+</p><p>Nice website where one can <a href="http://www.alphago-games.com/">explore and replay</a> all of published AlphaGo games.
+</p><p>Some of my <a href="http://361points.com/articles/thoughtsonalphago/">thoughts on AlphaGo</a> , including a brief history. 
+
+
+<br>
+<br>
+
+
+
+
+
+<a name="rating">
+
+
+
+</a></p></div><a name="rating">
+
+<div id="rightside">
+
+
+
+<div id="localsearch">
+<!--
+Search this site:
+
+  <form id="searchbox_000561493058326297387:d7razd6b7vu" action="http://www.361points.com/searchresults/">
+    <input type="hidden" name="cx" value="000561493058326297387:d7razd6b7vu" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input name="q" type="text" size="20" />
+    <input type="submit" name="sa" value="Search" />
+  </form>
+  <script type="text/javascript" src="http://google.com/coop/cse/brand?form=searchbox_000561493058326297387%3Ad7razd6b7vu"></script>
+-->
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<span id="o41514">
+<table cellspacing="0" cellpadding="0" style="width:100%; height:100%; border:0 none #000000;">
+</table>
+</span>
+
+
+
+
+
+
+</div> <!-- end rightside -->
+
+ <!-- end maincenter -->
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="./alphago_zero_patterns_files/ga.js.download" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-558179-8");
+pageTracker._initData();
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+
+</a></body></html>

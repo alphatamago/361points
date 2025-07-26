@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]KM[6.50]PW[Cristian Pop]PB[Ziteng Shan]DT[2007-05-31]EV[WAGC 2007]RO[8]WT[Romania]BT[China]RE[B+Resign]C[This game has just one commentary, at move 82 (by Cristian Pop).];B[cp];W[pd];B[dd];W[ep];B[eo];W[fo];B[do];W[gp];B[pp];W[en]
+;B[dn];W[em];B[dm];W[el];B[dl];W[ek];B[cj];W[nq];B[no];W[lp]
+;B[lo];W[ko];B[ln];W[mp];B[pn];W[ql];B[kp];W[pr];B[qr];W[nm]
+;B[or];W[mo];B[mn];W[nn];B[np];W[kq];B[jp];W[jq];B[ll];W[ml]
+;B[kn];W[jo];B[lk];W[mk];B[mj];W[qo];B[ol];W[ok];B[pk];W[po]
+;B[op];W[qn];B[pm];W[pl];B[nk];W[oj];B[nl];W[qm];B[mm];W[oh]
+;B[jc];W[cc];B[dc];W[cd];B[ce];W[be];B[bf];W[db];B[eb];W[ec]
+;B[de];W[fb];B[cb];W[ea];B[bb];W[pc];B[qf];W[pg];B[pi];W[oi]
+;B[qg]
+;W[ri]L[rd]C[Losing move, this is too slow - should be at A to kill Black.
+
+Once Black's invasion lived in the game, it's all over, White is behind in territory and cannot catch up (even if the game is still close).];B[pf];W[of];B[rh];W[qi];B[rd];W[rc];B[qd];W[qc];B[pe];W[oe]
+;B[rf];W[hc];B[mc];W[kb];B[kc];W[lb];B[jb];W[lc];B[ld];W[mb]
+;B[nb];W[nc];B[md];W[oc];B[fd];W[he];B[fc];W[je];B[ke];W[jd]
+;B[kd];W[ic];B[kg];W[kf];B[lf];W[jf];B[lh];W[dq];B[cq];W[cr]
+;B[fq];W[fp];B[br];W[pq];B[oq];W[qq];B[qp];W[rr];B[rq];W[qs]
+;B[rp];W[sr];B[ip];W[io];B[iq];W[ir]
+;B[lq]C[White resigns.])
