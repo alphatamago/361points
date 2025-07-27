@@ -1,6 +1,8 @@
-{% include common_start.html %}
+---
+layout: default
+title: Home Page
+---
 
-<h1>This is the test file content!</h1>
-<p>Ssome text here...</p>
+# Welcome to My Jekyll Site!
 
-{% include common_end.html %}
+This is the content of my home page, which is using the `default` layout.
