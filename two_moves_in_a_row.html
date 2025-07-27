@@ -1,9 +1,8 @@
+---
+layout: default
+title: How to study Go
+---
 
-<!-- saved from url=(0087)http://www.361points.com/media/gopatterns//leela_zero_patterns//two_moves_in_a_row.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<link rel="stylesheet" href="./two_moves_in_a_row_files/style_v2.css" type="text/css" media="screen">
-</head>
-<body>
 <h1>How Does LeelaZero Use Two Stones</h1>
 <p>(This is a follow up from the <a href="http://www.361points.com/media/gopatterns//leela_zero_patterns//leela_zero_patterns.html">overview of LeelaZero's training patterns</a> page).  
 </p><p>This article is about the corner patterns that occur in LeelaZero's training games, if we focus only on the ones that contain exactly two stones of the same color. In other words, when LeelaZero can play two moves in a row in a board quadrant, where does it like to play?
@@ -11,6 +10,7 @@
 </p><h2>Top 1: Ikken Shimari</h2>
 <p>The top pattern in this category is "ikken shimari". We can see that it had a sudden surge in popularity in the second half of the training, but it fades out in most recent versions.
 </p><p><img src="./two_moves_in_a_row_files/ikken_shimari.PNG">
+
 
 </p><h2>Top 2: Keima Shimari From Hoshi</h2>
 <p>The 2nd most popular pattern in this category is also a very familiar one, keima shimari from a 4x4 stone. The popularity graph seems to suggest that this pattern reached a peak and it is fading away - but that may be caused by the fact that black is not allowed by white to play the O3 move that often, since white will play an early 3x3 invasion. This is just my theory, more detailed data-analysis would be needed to be sure.
@@ -39,7 +39,3 @@
 </p><h2>Top 42: Chinese Opening Like Extension</h2>
 <p>A few more places down we can find an extension that is similar to the lower half of the Chinese opening. The history of this one seems pretty constant in LeelaZero's training, being discovered early, and having some relatively flat popularity all the way to most recent versions (with one large spike in the middle).
 </p><p><img src="./two_moves_in_a_row_files/chinese_extension.PNG">
-
-
-
-</p></body></html>
