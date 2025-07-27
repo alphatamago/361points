@@ -1,8 +1,6 @@
 ---
-layout: default2
+layout: default
 title: Home of 361points website
 ---
 
-# Welcome to My Site
-
-{% include hello.html %}
+{% include include_study.html %}
