@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[5.50]TM[]
+PW[Sorin Gherman]PB[Shimoda]DT[1995-05]EV[D class]C[This is just a fuseki game recording.
+
+Commentary by Tei Meikou 9 dan ( http://gobase.org/information/players/?pp=Tei%20Meiko ), one of the 3 official insei instructors at that time.]RE[?]
+;B[dp]CR[dp]
+;W[pd]CR[pd]
+;B[dd]CR[dd]
+;W[pp]CR[pp]
+;B[nc]CR[nc]
+;W[lc]CR[lc]
+;B[ne]CR[ne]
+;W[pf]CR[pf]
+;B[id]CR[id]
+;W[le]CR[le]
+;B[ng]CR[ng]
+(;W[lg]LB[oc:A]CR[lg]C[Should be kosumi-tsuke at A (P17). See the variation diagram.]
+;B[ph]CR[ph]
+(;W[pb]LB[oc:A]CR[pb]C[Again, it's better to play kosumi-tsuke at A (P17). See the variation diagram.
+
+The game commentary ends here.]
+;B[pn]CR[pn]
+;W[np]CR[np]
+;B[ni]CR[ni]C[Game recording ends here.])
+(;W[oc]CR[oc]
+;B[nb]CR[nb]
+;W[og]CR[og]C[Since white invested one more move on the outside, he can play aggresively here.]))
+(;W[oc]CR[oc]
+;B[nb]CR[nb]
+;W[ph]LB[nd:A]CR[ph]C[White is aiming next at A (O16) if attacked.]))

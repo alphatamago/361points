@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Kato Keiko]PB[Sorin Gherman]DT[1994-02]EV[training game]PC[Igo Kenshu Center]C[My opponent, Kato Keiko ( http://www.nihonkiin.or.jp/player/htm/ki000364.htm ) is now (2002) pro 4 dan. She used to live at the Igo Kenshu Center as an insei.
+
+This is a fast, training game we played there. The training games were usually 10 seconds per move. Only the beginning of the game is recorded.
+
+Commentary by Kitano Ryo 6 dan ( http://gobase.org/information/players/?pp=Kitano%20Ryo ). Kitano sensei has been several time in Romania teaching Go. We met soon after my arrival in Japan at a friend's (Hiroshi Shima) house in Tokyo for a couple of days.]RE[W+Resign]
+;B[pd]
+;W[dp]
+;B[pp]
+;W[cd]
+;B[ec]
+;W[hd]
+;B[ef]
+;W[cg]
+;B[jd]
+;W[hf]
+;B[eh]
+(;W[ci]C[This w12 is too submissive: should be keima, one point to the right.]
+;B[de]
+;W[ce]
+;B[hh]
+;W[je]
+;B[kd]
+;W[id]
+(;B[jh]LB[ke:a]C[Black should play magari (bent) from the 2 stones on the middle upper side, at "a".]
+;W[ke]
+;B[ld]
+(;W[kg]LB[le:a]C[White should play at "a", as in the variation.]
+;B[kh]
+;W[mf]
+;B[nd]
+;W[lh]
+;B[li]
+;W[mh]
+;B[jg]
+(;W[kf]LB[ge:b][mi:a]C[This is too defensive: white should take the opportunity and bend in the center, at "a".
+After white's submission, black "b" becomes kikashi.]
+(;B[kj]LB[mi:a]C[WIth this move black should push at "a" to maintain pressure on white.]
+;W[jq]
+(;B[cn]LB[hq:a]C[Worst direction: the left side is very uninteresting. Black should use his thickness in the center to separate and attack white stones: the right move here is at "a". See the variation.
+Another idea I considered for this move was to invade in san-san, but this is not good, either: white would become thick, cancelling trhe black influence in the center.]
+;W[bo]
+;B[fp]
+;W[eo]
+(;B[dj]LB[fo:a]C[Again wrong direction: black should push at "a" attacking the white stone on the middle of the lower side.
+
+The commentary ends here.]
+;W[fo]
+;B[ip]
+;W[jp]C[The game record ends here. White eventually won by resign.])
+(;B[fo]CR[fo]C[Attack.]))
+(;B[hq]C[This move is separating the white stones on the lower side, using black's central thickness.]
+;W[mq]
+;B[oq]
+;W[jo]
+;B[ho]C[Black keeps pressure on white's group: white has to worry about both his middle lower side group and the hoshi stone. ]))
+(;B[mi]CR[mi]C[Aggresive.]))
+(;W[mi]CR[mi]C[Get out to fresh air.]))
+(;W[le]
+;B[md]
+;W[lh]C[This way white takes initiative in the center.]))
+(;B[ke]CR[ke]C[Proper shape.]))
+(;W[di]CR[di]C[More ambitious.]))

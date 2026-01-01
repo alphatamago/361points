@@ -1,0 +1,99 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[19]HA[2]KM[0.00]PW[Maeda Ryo]PB[Sorin Gherman]AB[pd][dp]PC[Settle Go Center]DT[2024-01-14]RE[W+R];W[cd];B[pp];W[nc]
+(;B[qf];W[fc];B[cj];W[fq]
+(;B[eq];W[fp];B[dn];W[jq]
+(;B[cf];W[qn];B[nq];W[pg]
+(;B[pf];W[ng];B[og];W[oh];B[of];W[mi];B[hq];W[hp];B[fr];W[co]
+;B[do];W[gr];B[er];W[qq];B[qp];W[rp];B[ro];W[rq];B[qo];W[or]
+;B[oq]L[pn][no]C[Maeda said another possible variation is for black to play direclty  at A. If white pushes up to 36, black jumps lightly at B.];W[nr];B[pn];W[mq];B[mp]
+;W[lq]C[So far so good, Maeda said.]
+(;B[hc]L[lc][ob]C[Maeda criticized this, since it is disconnected somehow, close to where white has more influence: at A is more natural to play, hasami to make use of black's strong stones in the corner.
+
+KataGo agrees with A next, and is also ranking black B very high.];W[kc]
+(;B[ec]LB[dc:A]C[Maeda said A is more severe, this is too mild.];W[dc];B[ed];W[eb]
+(;B[fd]LB[fb:A]C[Maeda said black may consider A as a more severe alternative, but he didn't conclude with any particular variation that would be better for black.];W[fb];B[gd];W[pb]
+(;B[nd];W[md]
+;B[me]C[KataGo wants black to force at A instead.]L[oc][df];W[ld]
+(;B[hr];W[ch];B[ce];W[eh]
+(;B[dd]L[cb][dk][ej][gh]C[This exchange is better left unplayed, black loses future aji at A.
+
+KataGo is looking at these 3 possible follow-ups for black instead: B, C or D.];W[cc]
+(;B[bh];W[ef]
+(;B[df]LB[de:B][hh:C][ci:A]C[Maeda criticized this as too slow: he recommended black A, and said that white cannot really cut at B, since black is much stronger and can fight from around C.];W[qi];B[qc];W[cn]
+;B[cp]L[bp]C[KataGo clearly prefers A instead, by 3% more.];W[cl];B[ci]
+;W[dm]L[fk][qk]C[KataGo oscilates between A and B.]
+(;B[em];W[el]
+(;B[fl]LB[fm:A][ip:B]C[Maeda said black's first hane was good, but the eventual result was bad - maybe just play at A to keep white's invading group weak, and threaten B next.];W[fm];B[en]
+;W[ek]C[KataGo estiamtes w+ 65% now.]
+(;B[ip];W[iq];B[gm];W[gp];B[gq];W[ir];B[gs];W[io];B[fn]
+;W[qm]LB[fj:A]C[Maeda said that white should just connect around A and then he is clearly ahead.];B[pm];W[ql];B[pl];W[pk];B[ok];W[pj];B[ei];W[fk];B[fi];W[hk]
+;B[hi];W[nl];B[nm];W[mm];B[nn]
+;W[mo]C[Maeda regretted this move very much, he said it was an overplay.];B[mn];W[lo];B[ml];W[nk];B[mk];W[nj];B[lm];W[kl];B[km];W[jl]
+;B[jm];W[im];B[hm];W[il];B[in];W[hn];B[jn];W[bk];B[bm];W[cm]
+;B[bp];W[ji];B[ko];W[kp];B[jo];W[jp];B[np];W[lp];B[pq];W[pr]
+;B[gn];W[gj];B[ih];W[id]
+;B[he]C[All simultaneous games were stopped here.
+Maeda estimated the position as being close, white is slightly ahead.])
+(;B[bm]C[KataGo continuation];W[cm];B[gl];W[fj];B[qk]))
+(;B[bm]C[KataGo variation];W[cm];B[dk];W[fm];B[en];W[dl];B[fk];W[fl];B[gk];W[hh];B[jh]
+;W[ii];B[hl])
+(;B[fm]C[KataGo variation];W[fl];B[gm];W[qm];B[pm];W[ql];B[pl];W[pk];B[ok];W[pj];B[ip]
+;W[iq];B[io]))
+(;B[fk];W[fm];B[qk];W[hh];B[dk];W[en];B[oj];W[oi];B[nj];W[mj]
+;B[ki]C[No idea why KataGo wants to play here.];W[gj];B[gk];W[hk];B[hl];W[ik];B[gm];W[lk];B[gq];W[gn];B[hn]
+;W[go];B[mg];W[mh];B[lg];W[lh];B[ip];W[ho];B[fi];W[gg];B[il]
+;W[jk];B[kl];W[kk];B[gi];W[hi];B[el];W[em]
+;B[qb]C[KataGo variation, b+ 65%]))
+(;B[ci]C[KataGo variation];W[dh];B[cg];W[de];B[gg];W[gh];B[hh];W[hg];B[gf];W[gi];B[ig]
+;W[hi];B[ih]))
+(;B[gh]C[KataGo];W[ef];B[dg]
+(;W[dh];B[eg])
+(;W[ci];B[eg];W[ck];B[bk];W[dj];B[bl];W[bj];B[dl];W[el];B[cl]
+;W[fj])))
+(;B[dk]C[KataGo];W[ef];B[de]
+(;W[bd];B[bh])
+(;W[ci]
+;B[cc]C[This is why white needs to defend in the corner.];W[cb];B[bc];W[bb];B[bd]))
+(;B[ej]C[KataGo];W[gh];B[fg];W[fh];B[cb];W[bd];B[db];W[bb];B[gj];W[ef];B[de]
+;W[cc];B[bh])
+(;B[gh]C[KataGo];W[ef];B[dg];W[ci];B[dj];W[fh];B[dh];W[di];B[ei];W[bj];B[fi]
+;W[ck];B[bk];W[dk];B[ej];W[bl];B[bi];W[ak]))
+(;B[ej]
+;W[cn]L[de][df][ee][fg]C[Forgot to record the force A-D exchange for white, before this move.];B[bp];W[dk];B[dj];W[dm];B[em];W[el];B[cm];W[cl];B[dl];W[pm]
+;B[qm];W[dm];B[bm];W[ql];B[rn];W[fm];B[dl]))
+(;B[cl]C[KataGo];W[ql];B[qi];W[pm];B[on];W[nl];B[mm];W[ml];B[nm];W[ll];B[gi]
+;W[de];B[df];W[ee];B[fg]))
+(;B[db]C[KataGo]
+(;W[cb];B[fb];W[da];B[fd])
+(;W[fb];B[cb];W[fd];B[ee];W[bd];B[bc];W[bf];B[fe];W[ge];B[cg]
+;W[bg];B[gd];W[hb];B[bh];W[be];B[ce];W[bb];B[ba];W[ab];B[he]
+;W[gf];B[ac];W[cc];B[aa];W[da];B[hf];W[gg];B[ib];W[jb];B[ha]
+;W[gb];B[ic];W[bb];B[hg];W[gh];B[hh];W[gi];B[ab];W[ea];B[hi]
+;W[gj];B[dk];W[hj];B[ji])))
+(;B[dc]
+(;W[dd];B[ec];W[ed]
+;B[fb]C[Black's ideal outcome.])
+(;W[cc]
+(;B[ec]L[db]C[KataGo oscilates between this, and A and top 2 choices.];W[fd];B[de];W[dd];B[ed];W[ee];B[fb];W[gb];B[fe];W[ef];B[gd])
+(;B[dd]C[Bad for black.];W[de]
+(;B[fd];W[gd];B[gc];W[ed])
+(;B[ce]
+;W[ed]C[Bad for black])))))
+(;B[lc]C[One should attack where he is strong and the opponent is weak. This is a good example of that principle.]
+(;W[pc];B[qc];W[qb];B[pb];W[oc];B[rb];W[qd];B[rc];W[pe]
+;B[me]C[This variation is not good for white.])
+(;W[pb]C[KataGo variation]
+(;B[qc];W[qb];B[ic];W[rc];B[rd];W[pc];B[qd];W[rb];B[nb];W[mb]
+;B[mc];W[ob];B[nd];W[na];B[cl];W[cp];B[cr])
+(;B[ob]C[KataGo variation];W[oc];B[qb];W[pc];B[qc]
+(;W[nf];B[md])
+(;W[md];B[ic];W[ld];B[kc];W[je];B[gb];W[fb];B[gc];W[fd];B[he]
+;W[jd];B[jc];W[cn];B[bp];W[cl];B[dk]))))
+(;B[ob]C[KataGo variation];W[cl];B[bm];W[bl];B[cm];W[ch];B[dh];W[di];B[dd];W[dc];B[de]
+;W[ed];B[cc];W[bc];B[cb];W[be];B[bf];W[bb];B[ci];W[dm];B[cn]
+;W[eh];B[dg];W[dj];B[bh];W[kc]))
+(;B[oc]C[KataGo variation];W[nd];B[pf];W[og];B[rh]))
+(;B[gc]C[KataGo variation];W[gd];B[hc];W[fd];B[kc]))
+(;B[fp]C[KataGo variation];W[gp];B[fo];W[er];B[cq]))
+(;B[hc]C[KataGo]
+(;W[fc];B[kc])
+(;W[jc];B[ec])))

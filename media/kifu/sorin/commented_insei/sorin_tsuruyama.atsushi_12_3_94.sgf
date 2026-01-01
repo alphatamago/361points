@@ -1,0 +1,148 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Tsuruyama Atsushi]PB[Sorin Gherman]DT[1994-03-12]EV[C class]C[My opponent, Tsuruyama Atsushi ( http://www.nihonkiin.or.jp/player/htm/ki000365.htm ), is now ( 2002) pro 4 dan. 
+
+This game is one of the first games in C class. It remained vivid in my memory due to a mistake I made by ignoring a basic Go proverb: "don't let your opponent play hane at the head of 3 stones".
+
+Commentary by Tei Meikou 9 dan ( http://gobase.org/information/players/?pp=Tei%20Meiko ), one of the 3 official insei instructors at that time.]RE[W+Resign]
+;B[qd]
+;W[dq]
+;B[dc]
+;W[ce]
+;B[pp]
+;W[od]
+;B[ed]
+;W[dg]LB[ci:A]C[This move is strange: it leaves a very weak point at A (C11).]
+;B[do]
+;W[cm]
+;B[en]
+;W[cp]
+;B[co]
+;W[fq]
+;B[dl]
+;W[ck]
+(;B[ej]LB[dh:A]C[This move was criticised as being a "gentleman move", that means it's actually helping the opponent. 
+The tsuke at A is the recommended approach in this situation: cut opponent's stones, don't help him connect!]
+;W[di]
+;B[oc]
+;W[nc]
+;B[pc]
+;W[md]
+;B[qf]
+;W[ic]
+;B[cd]
+(;W[de]LB[gc:b][be:a]C[This white move is slow: white should extend in the other direction, at "a". Black would either tenuki or extend at "b".]
+(;B[nq]LB[fc:C][gc:A][ie:B]C[Black should play the big move at A (G17) instead (it is big because a white move at C (F17) is sente, threatening the black corner).
+If white answers at B (J15), then black can play shimari in the lower-right corner, as in the game.]
+;W[fc]C[White punishes black immediately.]
+;B[bd]
+;W[gn]C[This is an overplay. In the game it became effective because black failed to punish it.]
+(;B[fl]LB[ip:a]C[This falls in white's trap: it is too defensive and makes white's last move a good one. Instead, black should either extend on the lower side at "a", aiming at white's thinness or play more aggresive, as in the variation.]
+;W[kq]
+;B[qo]
+;W[hl]
+(;B[cj]LB[cl:A]C[This should better be directly at A (C8). ]
+;W[dj]
+;B[cl]
+;W[dk]
+;B[bk]
+;W[bj]
+;B[ek]
+;W[bl]
+;B[bm]
+;W[ak]
+(;B[bn]LB[dm:a]C[Instead of this move, "a" is better (makes more of an eye-shape).]
+(;W[qj]C[This is better one point lower (locally speaking).
+On the large scale see the diagram for a better approach.]
+(;B[ne]LB[lc:A][ql:B]C[This is bad: even if white do answer by connecting, the result is that white's upper side's weak point at A dissapears!
+White did even better, by ignoring black's peep.
+
+Black should play at B with this move, attacking white's stone on the left.]
+;W[qm]C[Very good move, takes into consideration the overall position.]
+;B[nd]
+;W[mc]
+;B[fd]
+;W[gc]
+;B[jp]C[This is a very good move, it hits the vital point in white's lower side position.]
+;W[kp]
+;B[jo]
+;W[ko]
+;B[jn]
+;W[ir]
+;B[iq]
+;W[hr]
+;B[gp]
+;W[me]
+;B[nf]
+;W[mf]
+(;B[kn]LB[ng:A]C[This move is VERY BAD. A basic Go provers says: "Play hane at the head of 3 stones.". Is exactly what white is able to do after black's tenuki.
+Black should prevent this and extend from the 3 stones, at A (O13): it's the only move in this situation.
+
+I'll never forget this position...
+
+The commentary ends here. White won by resign.]
+;W[ng]
+;B[of]
+;W[gf]
+;B[hi]
+;W[db]
+;B[cb]
+;W[eb]
+;B[be]
+;W[bf]
+;B[af]
+;W[bg]
+;B[bb]
+;W[jl]
+;B[lo]
+;W[hq]
+;B[hp]
+;W[ji]
+;B[ik]
+;W[ij]
+;B[hj]
+;W[jk]
+;B[qn]
+;W[pm]
+;B[bp]
+;W[bq]
+;B[aq]
+;W[ar]
+;B[ap]
+;W[pg]
+;B[og]
+;W[oh]
+;B[pf]
+;W[qh]
+;B[hg]
+;W[hk]
+;B[ml]
+;W[mq]
+;B[mr]
+;W[lm]
+;B[fp]
+;W[ep]
+;B[eo]
+;W[cq]
+;B[nn]
+;W[ln]C[Subsequent moves not recorded.
+
+White won by resign.])
+(;B[ng]CR[ng]C[The only move. Don't let the opponent play hane at the head of your 2 stones.]))
+(;B[ql]CR[ql]C[Correct direction: attack.]))
+(;W[dm]C[This atari shows why black's last move was wrong. ]
+;B[el]
+;W[bp]C[White was induced to play here by black's bad move. This is a big point anyway.  ])
+(;W[qk]LB[qi:A]CR[qk]C[Locally-correct invasion: white doesn't mind black approaching from above, at A (R11) since black is strong there anyway and won't increase his profit much.]))
+(;B[dm]CR[dm]C[Eye-making move.]))
+(;B[cl]CR[cl]C[Directly.]))
+(;B[ep]C[Black can prepare his attack with this kikashi.]
+;W[eq]
+;B[go]C[This makes white's weakness in this position obvious.])
+(;B[ip]CR[ip]C[Another good approach.]))
+(;B[gc]CR[gc]
+;W[ie]CR[ie]
+;B[nq]CR[nq]))
+(;W[be]CR[be]C[Proper direction.]
+;B[gc]CR[gc]))
+(;B[dh]CR[dh]C[A fighting spirit move, as opposed to the "gentleman move" I actually played in the game.]))

@@ -1,0 +1,255 @@
+(
+;
+FF[4]
+GM[1]
+SZ[19]
+AP[Jago:Version 4.38]
+GN[American Go Congress, 2002 Chicago]
+PB[Sorin Gherman]
+PW[James Sedgewick (Canada)]
+BR[7D AGA]
+WR[6D AGA]
+DT[5 August 2002]
+TM[120min, 30s]
+KM[5.5]
+RE[B+W]
+C[Commetary by Maeda.]
+;
+B[pd]
+;
+W[dp]
+;
+B[pp]
+;
+W[dd]
+;
+B[fc]
+;
+W[df]
+;
+B[id]
+;
+W[nq]
+;
+B[pn]
+;
+W[jp]
+;
+B[pj]
+;
+W[kc]
+;
+B[jc]
+;
+W[ke]
+;
+B[if]
+;
+W[kg]
+(
+;
+B[kb]
+C[Bad, black shouldn't play on the second line so early in the game. Should continue to play ikken-tobi in the center, at J12 (see variation).]
+;
+W[lc]
+;
+B[lb]
+;
+W[nc]
+;
+B[oc]
+C[Bad move: it help white become thick. Should play directly at Q14 (ikken-tobi).]
+;
+W[nd]
+;
+B[pf]
+;
+W[dj]
+;
+B[ih]
+;
+W[ki]
+;
+B[ij]
+;
+W[hg]
+C[Bad nozoki.]
+;
+B[ig]
+;
+W[kk]
+;
+B[lf]
+C[Bad nozoki for black, too. Same for black's next move.]
+;
+W[kf]
+;
+B[lh]
+C[If black plays no nozoki, and later gets a stone at N13, he would treaten to actually cut white, that's why both nozokis were very bad.]
+;
+W[kh]
+;
+B[cn]
+;
+W[co]
+;
+B[dn]
+;
+W[fp]
+(
+;
+B[bj]
+C[Good move. The normal move, at C8, is also ok. A more aggresive approach would be for black to invade now at C12. See variation.]
+;
+W[cj]
+;
+B[bk]
+;
+W[ch]
+C[Very bad, shold block at B11.]
+;
+B[bi]
+;
+W[bh]
+;
+B[lq]
+C[Overplay. Black should defend his group in the lower left (for instance with a hane at B5, white B4, black B6.]
+;
+W[qq]
+C[Too defensive: this is a sabaki move, while white shold think about attacking.
+Maeda's commentary ends here.]
+;
+B[pq]
+;
+W[pr]
+;
+B[qp]
+;
+W[rr]
+;
+B[rq]
+;
+W[qr]
+;
+B[rp]
+;
+W[jq]
+;
+B[lo]
+;
+W[oq]
+;
+B[mn]
+;
+W[qc]
+;
+B[qd]
+;
+W[ob]
+;
+B[pc]
+;
+W[pb]
+;
+B[qb]
+;
+W[eb]
+;
+B[mb]
+;
+W[nf]
+;
+B[ng]
+;
+W[mg]
+;
+B[og]
+;
+W[nb]
+;
+B[mf]
+;
+W[lg]
+;
+B[ne]
+;
+W[mj]
+;
+B[fb]
+;
+W[bo]
+;
+B[bn]
+;
+W[ec]
+;
+B[fe]
+;
+W[jl]
+;
+B[eg]
+;
+W[ok]
+;
+B[oj]
+;
+W[nk]
+;
+B[pk]
+)
+(
+;
+B[ch]
+(
+;
+W[dh]
+C[Too slow.]
+;
+B[cg]
+;
+W[cf]
+;
+B[dg]
+;
+W[eg]
+;
+B[di]
+;
+W[eh]
+;
+B[ci]
+;
+W[ei]
+;
+B[cj]
+;
+W[dk]
+;
+B[ck]
+C[This result would very bad for white in this game, since he cannot use his thickness.]
+)
+(
+;
+W[dl]
+C[White should counterattack.]
+;
+B[eh]
+C[Blacks sacrifices the 2 stones below, instead he attacks white's 2 stones above very strongly.]
+;
+W[fm]
+;
+B[cc]
+C[Black cannot hope to kill the 2 white stones, but he can profit from attacking them.]
+)
+)
+)
+(
+;
+B[ih]
+;
+W[ki]
+;
+B[ch]
+C[This way black would make use of his thickness.]
+)
+)

@@ -1,0 +1,91 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[]
+PW[Sorin Gherman]PB[Cho]DT[1994-08]EV[Hakone go camp training game]PC[Hakone, Japan]C[My opponent is a Taiwanese insei girl. The game is a training one, played at the Hakone Go camp.
+
+Commentary by Tei Meikou 9 dan ( http://gobase.org/information/players/?pp=Tei%20Meiko ), one of the 3 official insei instructors at that time.]RE[W+11.00]
+;B[dp]
+;W[pd]
+;B[dc]
+;W[pp]
+;B[nc]
+;W[pf]
+;B[jd]
+;W[cf]
+;B[cd]
+;W[dj]
+;B[cl]
+;W[ef]
+;B[gd]
+;W[fq]
+;B[dq]
+;W[iq]
+;B[qn]
+(;W[np]LB[pj:a][qj:b]C[White should better play hasami ("a" or "b") in this position. The reason is white's high position in the upper right due to the Q14 stone.]
+;B[rp]
+;W[ql]
+;B[qq]
+;W[qo]
+;B[ro]
+;W[pn]
+;B[pm]
+;W[qm]
+;B[rn]
+(;W[on]LB[pr:a]C[White "a" is more severe.]
+;B[nr]
+(;W[or]LB[kd:a][co:b]C[This is too early. 
+White is thick outside, so he should start a fight somewhere: for instance starting with the tsuke at "a" or with the invasion at "b".]
+;B[oq]
+;W[nq]
+;B[pr]
+;W[mr]
+;B[os]
+(;W[pj]LB[kd:a][co:b]C[The same commentary as for move 30: better at "a" or "b".]
+;B[el]
+(;W[lc]LB[dg:a][cj:b]C[After black's last move, "a" would be  a very severe attack, so white should defend now at "b".]
+;B[jc]
+;W[ed]
+;B[ec]
+;W[pb]
+;B[md]LB[nb:c][ld:a][le:b]C[Bad. White can play next "a", black "b", white "c".]
+(;W[fo]C[See the previous move's commentary.]
+;B[en]
+;W[ck]
+;B[bl]
+;W[gm]
+;B[ci]C[Very small, slow move.]
+;W[di]
+;B[ch]
+;W[dh]
+;B[bk]
+(;W[hj]LB[fk:a]C[Better at "a".]
+;B[ii]C[This is not deep enough for black: he cannot win anymore.]
+;W[ij]
+;B[ji]
+;W[kj]
+;B[jj]
+;W[jk]
+;B[hi]
+;W[gj]
+;B[gi]
+(;W[fi]LB[fj:a]C[Should connect calmly at "a".]
+;B[fh]
+;W[ki]
+;B[fj]
+(;W[ei]LB[fk:a]C[Should sacrifice a stone and play at "a".]
+;B[fk]C[Black should win this game.
+
+Commentary (and game record) end here. White eventually won by 11 p.])
+(;W[fk]CR[fk]C[Sacrifice.]))
+(;W[fj]CR[fj]C[Patiently defend.]))
+(;W[fk]CR[fk]C[Firmer enclosure.]))
+(;W[ld]CR[ld]C[Defend.]
+;B[le]CR[le]
+;W[nb]CR[nb]))
+(;W[cj]CR[cj]C[Defend.]))
+(;W[kd]CR[kd]C[Start a fight.])
+(;W[co]CR[co]C[Invasion.]))
+(;W[kd]CR[kd]C[Start a fight.])
+(;W[co]CR[co]C[Invasion.]))
+(;W[pr]CR[pr]C[Kikashi.]))
+(;W[qj]CR[qj]C[Good direction.])
+(;W[pj]CR[pj]C[Good direction.]))
