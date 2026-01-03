@@ -99,7 +99,7 @@ The game commentary ends here.]
 ;B[nl]CR[nl]
 ;W[ok]CR[ok]
 ;B[ll]CR[ll]
-;W[ge]CR[ge]C[The game record ends here. I am sorry, but I didn't record and don't remember the result anymore.])
+;W[ge]CR[ge]C[The game record ends here. I am not sure who won.])
 (;B[fp]CR[fp]C[Should be directly here.]
 ;W[ep]CR[ep]
 ;B[gq]CR[gq]C[The same sequence as in the game will be played, except that white doesn't have anymore the stone at E2 which makes possible for him to play at G2 in sente later .]))
