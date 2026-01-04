@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
-RU[Japanese]SZ[19]KM[0.00]TM[]
-PW[insei C class]PB[Sorin]DT[1994-03-27]EV[C class tournament]C[Commentary by Kitamura Hiroshi 7 dan ( http://gobase.org/information/players/?pp=Kitamura%20Hiroshi ), one of the 3 official insei instructors at that time.]RE[W+3.50]
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Yun 尹]PB[Sorin]DT[1994-03-27]EV[C class tournament]C[Commentary by Kitamura Hiroshi 7 dan ( http://gobase.org/information/players/?pp=Kitamura%20Hiroshi ), one of the 3 official insei instructors at that time.]RE[W+3.50]
 ;B[pd]
 ;W[qp]
 ;B[dd]
@@ -161,7 +161,7 @@ The game commentary ends here. White won by 3.5 p.]
 ;W[ro])
 (;B[be]CR[be]C[Make profit while attacking.]))
 (;B[ll]CR[ll]C[Fighting move.]))
-(;W[nh]LB[of:A]CR[nh]C[Good style. It's safe thanks to the cutting point at A (P14).]))
+(;W[nh]CR[nh]LB[of:A]C[Good style. It's safe thanks to the cutting point at A (P14).]))
 (;B[qb]CR[qb]C[First kikashi, to test white's response, then decide whether to attack on the left or not.])
 (;B[pb]CR[pb]C[Another possible kikashi.]))
 (;B[kh]CR[kh]C[Play boshi directly.]))
