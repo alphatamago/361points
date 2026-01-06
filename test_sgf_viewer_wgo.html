@@ -1,14 +1,64 @@
 <!DOCTYPE HTML>
 <html>
-  <head>
-    <title>My page</title>
-    <script type="text/javascript" src="/media/js/wgo/wgo.min.js"></script>
-    <script type="text/javascript" src="/media/js/wgo/wgo.player.min.js"></script>
-    <link type="text/css" href="/media/js/wgo/wgo.player.css" rel="stylesheet" />
-  </head>
-  <body>
-    <div data-wgo="/media/kifu/sorin/vspro/kazuko.shoji_sorin.sgf" style="width: 700px">
-      Sorry, your browser doesn't support WGo.js. Download SGF <a href="/media/kifu/sorin/vspro/kazuko.shoji_sorin.sgf">directly</a>.
-    </div>
-  </body>
+
+<head>
+  <title>My page</title>
+  <script type="text/javascript" src="/media/js/wgo/wgo.min.js"></script>
+  <script type="text/javascript" src="/media/js/wgo/wgo.player.min.js"></script>
+  <link type="text/css" href="/media/js/wgo/wgo.player.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!-- Activating a player statically -->
+  <div data-wgo="/media/kifu/sorin/vspro/kazuko.shoji_sorin.sgf" style="width: 700px">
+    Sorry, your browser doesn't support WGo.js. Download SGF <a
+      href="/media/kifu/sorin/vspro/kazuko.shoji_sorin.sgf">directly</a>.
+  </div>
+
+  <!-- Activating a player using javascript with a hardcoded game URL -->
+  <div id="player" style="width: 700px"></div>
+  <script type="text/javascript">
+    var elem = document.getElementById("player");
+    var player = new WGo.BasicPlayer(elem, {
+      sgfFile: "/media/kifu/sorin/commented_insei/lee2_sorin_8_04_95.sgf"
+    });
+  </script>
+
+  <!-- Activating a player using javascript from a dropdown control to select a game -->
+  <div id="player_static" style="width: 700px"></div>
+  <script type="text/javascript">
+    var elem = document.getElementById("player_static");
+    var player = new WGo.BasicPlayer(elem, {
+      sgfFile: "/media/kifu/sorin/commented_insei/lee2_sorin_8_04_95.sgf"
+    });
+  </script>
+
+
+<select id="sgf-selector" style="margin-bottom: 10px; padding: 5px;">
+  <option value="/media/kifu/sorin/commented_insei/lee2_sorin_8_04_95.sgf">Game 1: Lee vs Sorin</option>
+  <option value="/media/kifu/sorin/vspro/kazuko.shoji_sorin.sgf">Game 2: Kazuko Shoji 3p vs Sorin</option>
+</select>
+
+<div id="player" style="width: 700px"></div>
+
+<script type="text/javascript">
+  var elem = document.getElementById("player");
+  var selector = document.getElementById("sgf-selector");
+  
+  // 2. Initialize the player with the current value of the dropdown
+  var player = new WGo.BasicPlayer(elem, {
+    sgfFile: selector.value 
+  });
+
+  // 3. Listen for changes in the dropdown
+  selector.addEventListener("change", function() {
+    // This method tells the WGo player to load a new file path
+    // player.loadSgf(this.value);
+    player = new WGo.BasicPlayer(elem, {sgfFile: selector.value });
+  });
+</script>
+
+
+</body>
+
 </html>

@@ -1,5 +1,5 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
-RU[Japanese]SZ[19]KM[5.50]TM[]
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[5.50]
 PW[Osawa_2]PB[Sorin Gherman]DT[1995-03-05]EV[D class]C[There were 2 Osawa sisters in the insei league. The older one, Osawa Narumi, 
 is now (2002) pro 2 dan ( http://gobase.org/information/players/?pp=Osawa%20Narumi ). 
 I don't know the name of her younger sister, I'll call her Osawa_2. I've played 
@@ -33,7 +33,9 @@ Commentary by Kitamura Hiroshi 7 dan ( http://gobase.org/information/players/?pp
 ;W[np]CR[np]
 ;B[pn]CR[pn]
 ;W[kp]CR[kp]C[Overplay.]
-(;B[jq]LB[jo:A][hp:B]CR[jq]C[Bad. Black should play at either "A" (K5) or "B" (H4).]
+(;B[jq]CR[jq]LB[jo:A][hp:B][kq:C]C[Bad. Black should play at either "A" (K5) or "B" (H4).
+
+(Interestingly: KataGo likes the move in the game, but even better wants to play C; while A and B are both low scored)]
 ;W[jo]CR[jo]
 ;B[hp]CR[hp]
 ;W[dl]CR[dl]
@@ -67,16 +69,18 @@ Commentary by Kitamura Hiroshi 7 dan ( http://gobase.org/information/players/?pp
 ;W[mr]CR[mr]
 ;B[or]CR[or]
 ;W[rn]CR[rn]
-(;B[df]LB[fc:A]CR[df]C[Bad, black is playing from the wrong: black is already very strong on this side, therefore he should attack from the other side, kakari at "A" (F17).]
+(;B[df]CR[df]LB[fc:A]C[Bad, black is playing from the wrong: black is already very strong on this side, therefore he should attack from the other side, kakari at "A" (F17).]
 ;W[eg]CR[eg]
 ;B[ce]CR[ce]
 ;W[bf]CR[bf]
 ;B[de]CR[de]
 ;W[cd]CR[cd]
-(;B[be]LB[ff:A]CR[be]C[Again bad direction: black should get out into the center to attack the white stones below. Should play at "A" (F14).]
+(;B[be]CR[be]LB[ff:A]C[Again bad direction: black should get out into the center to attack the white stones below. Should play at "A" (F14).]
 ;W[bd]CR[bd]
-(;B[bg]LB[ff:A]CR[bg]C[Very bad, this was black's last chance to get out at "A" (F14).
-Kitamura sensei's commentary ends here.]
+(;B[bg]CR[bg]LB[ed:C][fe:B][ff:A]C[Very bad, this was black's last chance to get out at "A" (F14).
+Kitamura sensei's commentary ends here.
+
+(KataGo agrees that black has to resist, but prefers B instead of A, since if white connects on the first line, then black has a stronge continuation at C)]
 ;W[ee]CR[ee]
 ;B[qn]CR[qn]
 ;W[rp]CR[rp]
@@ -175,9 +179,22 @@ Kitamura sensei's commentary ends here.]
 ;B[gq]CR[gq]
 ;W[hr]CR[hr]
 ;B[gp]CR[gp]
-;W[kq]CR[kq]
+(;W[kq]CR[kq]LB[gr:A]C[(KataGo strongly disagrees with the Sensei's move - it wants to play A, see the variation)]
 ;B[gr]CR[gr]
 ;W[jr]CR[jr]
-;B[fo]CR[fo]C[This result is very good for black.]))
-(;B[jo]CR[jo]C[Correct.])
-(;B[hp]CR[hp]C[Correct.]))
+;B[fo]CR[fo]C[This result is very good for black.])
+(;W[gr]
+;B[fq]
+;W[kq]
+;B[fo]
+;W[dr]C[KataGo variation, white leads])))
+(;B[jo]CR[jo]C[Sensei's option #1])
+(;B[hp]CR[hp]C[Sensei's option #2])
+(;B[kq]C[KataGo's first choice move]
+;W[jq]
+;B[iq]
+;W[jr]
+;B[jo]
+;W[kr]
+;B[oc]
+;W[nd]LB[cc:B][dc:A][ic:C]C[KataGo recommends this sequence, followed by one of the following 3 options next: A, B or C for black.]))

@@ -1,5 +1,5 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
-RU[Japanese]SZ[19]KM[5.50]TM[]
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[5.50]
 PW[O Innin]PB[Sorin Gherman]DT[1995-08]EV[Hakone insei camp]PC[Hakone, Japan]C[Wang Weijen ( http://www.nihonkiin.or.jp/player/htm/ki000348.htm ) is now (2002) pro 4 dan. 
 We both lived at Igo Kenshu Center in Chiba - he was known as "O - kun" there.
 
@@ -34,7 +34,9 @@ Commentary by Tei Meikou 9 dan ( http://gobase.org/information/players/?pp=Tei%2
 ;W[ck]CR[ck]
 ;B[fj]CR[fj]
 ;W[cm]CR[cm]
-;B[hg]CR[hg]C[Exchanging this for next white's move is a very bad exchange for black, he's losing the invading potential on the upper side.]
+;B[hg]CR[hg]LB[he:A][je:B]C[Exchanging this for A is a very bad exchange for black, he's losing the invading potential on the upper side.
+
+(KataGo want black to play B for a promissing game)]
 ;W[he]CR[he]C[Game recording ends here.
 White eventually won by resign.])
 (;B[dk]CR[dk]C[This is possible for black, however white looks slightly better in the fight that follows.]
