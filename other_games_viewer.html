@@ -1,0 +1,45 @@
+---
+layout: default
+title: Games played as in insei in Japan
+---
+
+<p>These are some of my game records, other than <a href="insei_games_viewer.html">the ones I played as an insei</a>.
+</p>
+>
+<!-- <select id="sgf-selector" style="margin-bottom: 10px; padding: 5px; width: 100%; max-width: 600px; margin: 10 auto;"> -->
+<select id="sgf-selector"
+    style="display: block; margin: 0 auto 10px auto; padding: 5px; width: 100%; max-width: 600px;">
+    <option value="/media/kifu/sorin/commented_others/wagc 1990/kato_sorin.sgf">WAGC 1990, teaching game with Kato Masao
+        9p</option>
+    <option value="/media/kifu/sorin/commented_others/wagc 1990/sorin_mitchell.sgf">WAGC 1990 vs Mitchell</option>
+    <option value="/media/kifu/sorin/commented_others/wagc 1990/shaw_sorin.sgf">WAGC 1990 vs Shaw</option>
+    <option value="/media/kifu/sorin/commented_others/wagc 1990/soldan_sorin.sgf">WAGC 1990 vs Soldan</option>
+    <option value="/media/kifu/sorin/commented_others/wagc 1990/torres_sorin.sgf">WAGC 1990 vs Torres</option>
+    <option value="/media/kifu/sorin/commented_others/wagc 1990/sorin_detkov.sgf">WAGC 1990 vs Detkov</option>
+
+    <option value="/media/kifu/sorin/commented_others/egc 1990/sorin_mariko.murai.sgf">EGC 1990 vs Murai</option>
+    <option value="/media/kifu/sorin/commented_others/egc 1990/sorin_jipp.sgf">EGC 1990 vs Jipp</option>
+    </option>
+</select>
+
+<div id="player" style="width: 700px"></div>
+
+<script type="text/javascript">
+    var elem = document.getElementById("player");
+    var selector = document.getElementById("sgf-selector");
+
+    // 1. Initialize the player once with the first value in the dropdown
+    var player = new WGo.BasicPlayer(elem, {
+        sgfFile: selector.value,
+        layout: {
+            className: 'wgo-twocols',
+            right: ['InfoBox', 'CommentBox'],
+            bottom: ['Control']
+        }
+    });
+
+    // 2. Listen for changes and load the new file into the existing player
+    selector.addEventListener("change", function () {
+        player.loadSgfFromFile(this.value);
+    });
+</script>

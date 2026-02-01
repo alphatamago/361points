@@ -1,6 +1,15 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://alphatamago.github.io/361points/how_to_study.html">
+    <title>Redirecting...</title>
+    <link rel="canonical" href="https://alphatamago.github.io/361points/how_to_study.html">
+    <script>
+        // Optional: A small JavaScript fallback just in case the meta refresh fails (rare)
+        window.location.replace('https://alphatamago.github.io/361points/how_to_study.html');
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, <a href="https://alphatamago.github.io/361points/how_to_study.html">click here</a>.</p>
+</body></html>
