@@ -140,7 +140,8 @@ But black shouldn't answer B, but cut at C instead after white A, to try to stay
 ;W[lm]
 ;B[ko]
 ;W[gg]
-;B[jp]
+;B[jp]TR[gh]C[Black should defend against the ko-threat, and keep fighting the ko. 
+White is way ahead, but this is black's only reasonable way to continue.]
 ;W[fg]
 ;B[hg]
 ;W[hf]
